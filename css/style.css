@@ -19,9 +19,9 @@ body {
     border-radius: 20px;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     display: flex;
-    height: 676px;
+    height: 576px;
     justify-content: center;
-    width: 676px;
+    width: 276px;
 }
 
 
@@ -36,7 +36,7 @@ body {
     height: 70px;
     justify-content: space-between;
     position: relative;
-    width: 70%;
+    width: 85%;
 }
 
 .nav-logo {
@@ -191,7 +191,7 @@ body {
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     height: 576px;
     margin: 50px;
-    width: 876px;
+    width: 476px;
 
     position: relative;
 }
